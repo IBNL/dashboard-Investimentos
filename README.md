@@ -1,6 +1,6 @@
 <b>Linguagem/Versão:</b> PHP 7.4
 
-<b>Framework/Versão:</b> Laravel 8.12
+<b>Framework/Versão:</b> Laravel 8
 <hr>
 
 ## Criar banco de dados MYSQL
@@ -31,11 +31,10 @@ DB_USERNAME=userName
 DB_PASSWORD=1wMjSFwMjFszcMlHjJc
 ```
 
-## Criar tabelas no banco de dados
+### Criar tabelas no banco de dados
 - Para criar as tabelas será necessário rodar o comando abaixo
 
     ~# php artisan migrate
-   
 
 ### Base de dados para popular o banco.
 
@@ -46,8 +45,6 @@ DB_PASSWORD=1wMjSFwMjFszcMlHjJc
   
     ~# composer install
     
-    ~# npm install
-
 - Gerar chave da aplicação
 
     ~# php artisan key:generate
@@ -56,7 +53,7 @@ DB_PASSWORD=1wMjSFwMjFszcMlHjJc
 
     ~# php artisan serve
     
-#### Imagens da aplicação
+### Imagens da aplicação
 
 ![homeFundo](https://user-images.githubusercontent.com/39016254/115149517-e1b1b800-a03a-11eb-9096-bab9ec834915.png)
 
