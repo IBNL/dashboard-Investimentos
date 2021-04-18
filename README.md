@@ -53,6 +53,8 @@ DB_PASSWORD=1wMjSFwMjFszcMlHjJc
 
     ~# php artisan serve
     
+ -Acesse no navegador http://localhost:8000/home
+    
 ### Imagens da aplicação
 
 ![homeFundo](https://user-images.githubusercontent.com/39016254/115149517-e1b1b800-a03a-11eb-9096-bab9ec834915.png)
